@@ -1,0 +1,14 @@
+table {
+    border: 2px solid; color: purple; width: 35%;
+    background-color: beige;
+    font-size: 60px;
+    align-content: center;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1576021182211-9ea8dced3690?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1287&q=80");
+}
+
+h1 {
+    text-align: center; font-size: 70px; color: brown;
+}
